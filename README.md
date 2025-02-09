@@ -64,7 +64,7 @@ Aplicação web para gerenciamento de lista de compras desenvolvida durante a di
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/Roberto10Andrade/vue-firebase-first-project-master.git
+git clone https://github.com/Roberto10Andrade/vue-firebase-first-project.git
 ```
 
 2. Instale as dependências
