@@ -5,11 +5,11 @@ Aplicação web para gerenciamento de lista de compras desenvolvida durante a di
 ## 📸 Screenshots
 
 ### Tela de Login
-![Tela de Login](screenshots/login.png)
+![image](https://github.com/user-attachments/assets/e60732ca-0d74-4aa2-886a-86d7f046ef3e)
 *Tela de login com autenticação via email/senha e Google*
 
 ### Tela Principal
-![Tela Principal](screenshots/main.png)
+![image](https://github.com/user-attachments/assets/dac28ce6-6a6b-49fd-a8a7-96aae620667e)
 *Interface principal com lista de compras e funcionalidades*
 
 ## ✨ Funcionalidades
@@ -51,7 +51,6 @@ Aplicação web para gerenciamento de lista de compras desenvolvida durante a di
   - Vue.js 3
   - Vue Router
   - Font Awesome
-  - Tailwind CSS
 
 - **Backend:**
   - Firebase Authentication
@@ -95,35 +94,9 @@ npm run serve
 http://localhost:8080
 ```
 
-## 💡 Recursos Adicionais
-
-- Design responsivo
-- Interface intuitiva
-- Feedback visual
-- Validação de dados
-- Proteção de rotas
-- Persistência de dados
-
-## 🤝 Contribuindo
-
-1. Faça um Fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
 ## 👤 Autor
 
 **Roberto Andrade**
 - GitHub: [@Roberto10Andrade](https://github.com/Roberto10Andrade)
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 🙏 Agradecimentos
-
-- Professor e monitores da disciplina
-- Comunidade Vue.js
-- Documentação do Firebase
 
