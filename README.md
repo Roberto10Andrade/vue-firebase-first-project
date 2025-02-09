@@ -69,7 +69,7 @@ git clone https://github.com/Roberto10Andrade/vue-firebase-first-project.git
 
 2. Instale as dependências
 ```bash
-cd vue-firebase-first-project-master
+cd vue-firebase-first-project
 npm install
 ```
 
