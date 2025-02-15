@@ -27,12 +27,6 @@ Aplicação web para gerenciamento de lista de compras desenvolvida durante a di
 - Marcar como comprado
 - Categorização (Alimentos, Bebidas, Limpeza, etc.)
 
-### 🔍 Filtros e Busca
-- Busca por nome do item
-- Filtro por categoria
-- Filtro de itens pendentes
-- Ordenação personalizada
-
 ### 📊 Relatórios e Estatísticas
 - Total gasto
 - Itens por categoria
@@ -50,7 +44,6 @@ Aplicação web para gerenciamento de lista de compras desenvolvida durante a di
 - **Frontend:**
   - Vue.js 3
   - Vue Router
-  - Font Awesome
 
 - **Backend:**
   - Firebase Authentication
